@@ -1,0 +1,98 @@
+[
+    {
+        "name": "İmam Bayıldı",
+        "category": "Ana Yemek",
+        "image": "https://i.nefisyemektarifleri.com/2023/08/18/imam-bayildi-yapimi-8.jpg",
+        "description": "İmam bayıldı, soğan, domates ve sarımsakla doldurulmuş patlıcanlardan yapılan lezzetli bir Türk yemeğidir."
+    },
+    {
+        "name": "Mantı",
+        "category": "Ana Yemek",
+        "image": "https://i.lezzet.com.tr/images-xxlarge-secondary/manti-nasil-pisirilir-9853d099-517c-4e89-be1c-960b703dcb8e.jpg",
+        "description": "Mantı, baharatlı etle doldurulmuş, genellikle yoğurt ve sarımsak sosuyla servis edilen Türk mantısıdır."
+    },
+    {
+        "name": "Baklava",
+        "category": "Tatlı",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZXiloEaQVE_zTaetvmBb_rz4l47No94XBw&s",
+        "description": "Baklava, ince hamur katmanları ve fıstık ya da ceviz ile yapılan geleneksel bir Türk tatlısıdır."
+    },
+    {
+        "name": "Dolma",
+        "category": "Ana Yemek",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NNtq0AsmFb-jcmOdhAw-jj0TILP1Sx9SIQ&s",
+        "description": "Dolma, biber, patlıcan veya yaprak gibi sebzelerin içinin doldurulmasıyla yapılan bir yemektir."
+    },
+    {
+        "name": "Pilav",
+        "category": "Yan Yemek",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2OGOGAYH1BLtmLWpuOZGTcaF5XP5lNgheYg&s",
+        "description": "Pilav, genellikle et veya sebzelerle servis edilen Türk mutfağının temel bir bileşenidir."
+    },
+    {
+        "name": "Künefe",
+        "category": "Tatlı",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYqe68Pksp9UoL9qpudSLy9aaPpX-zGNvpw&s",
+        "description": "Künefe, tel kadayıf ve peynir ile yapılan, şerbetli bir Türk tatlısıdır."
+    },
+    {
+        "name": "Lahmacun",
+        "category": "Ana Yemek",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM4v5GDdakS7lZLX8E9ml35r2ZR1AK0i8_kw&s",
+        "description": "Lahmacun, ince hamur üzerine kıyma, soğan, domates ve baharatlar konularak yapılan Türk pizzasıdır."
+    },
+    {
+        "name": "Köfte",
+        "category": "Ana Yemek",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxTVfSLnRDDJ3c69lO8Dq9uOc4G8S8y8pIw&s",
+        "description": "Köfte, çeşitli baharatlarla tatlandırılmış, kıymadan yapılan Türk köftesidir."
+    },
+    {
+        "name": "Börek",
+        "category": "Yan Yemek",
+        "image": "https://i.ytimg.com/vi/Ueb0UZTAY3o/maxresdefault.jpg",
+        "description": "Börek, yufka ile yapılan, peynir, kıyma veya ıspanak ile doldurulan geleneksel bir Türk hamur işidir."
+    },
+    {
+        "name": "Sarma",
+        "category": "Ana Yemek",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuZLa4EnGp9JXYcVpSKfJlrjxyS53rD5I2Hw&s",
+        "description": "Sarma, üzüm yaprağı veya lahana yaprağı ile yapılan ve içi pirinç, et ve baharatlarla doldurulan bir yemektir."
+    },
+    {
+        "name": "Gözleme",
+        "category": "Yan Yemek",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vw89WvVcuL3p-11BLJpQ5uZIv_ula0Rb3Q&s",
+        "description": "Gözleme, yufka içine çeşitli malzemeler (peynir, patates, ıspanak) konularak yapılan geleneksel Türk gözlemesidir."
+    },
+    {
+        "name": "Salata",
+        "category": "Salata",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZK7QoWfyf4U_C3FY_RCNnAQgPssGs7Tmyw&s",
+        "description": "Salata, taze sebzelerle yapılan ve zeytinyağı, limon suyu veya sirke ile tatlandırılan hafif bir yemektir."
+    },
+    {
+        "name": "Kısır",
+        "category": "Salata",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQgpfDV_yGWXvsll7J4-x7ESj87IxjcirIsQ&s",
+        "description": "Kısır, ince bulgur, domates, salatalık, yeşillikler ve nar ekşisi ile yapılan bir Türk salatasıdır."
+    },
+    {
+        "name": "Pide",
+        "category": "Ana Yemek",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3JDHcvufT4eT_0BBAFsAvkpoBchPBpeZs3A&s",
+        "description": "Pide, çeşitli malzemelerle doldurulmuş ve fırında pişirilmiş, Türk mutfağının vazgeçilmez bir ekmeğidir."
+    },
+    {
+        "name": "Tavuk",
+        "category": "Ana Yemek",
+        "image": "https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/mgt/tavuklu-patates.webp",
+        "description": "Tavuk, çeşitli baharatlar ve sebzelerle birlikte pişirilmiş, protein açısından zengin bir yemektir."
+    },
+    {
+        "name": "Helva",
+        "category": "Tatlı",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7vlLRQ9Pg6qnxIso6THmSuFMm0YkYV7sRcg&s",
+        "description": "Helva, un veya irmik ile yapılan, tereyağı ve şekerle tatlandırılan geleneksel bir Türk tatlısıdır."
+    }
+]

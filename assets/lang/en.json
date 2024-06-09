@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Imam Bayıldı",
+        "category": "Main Dish",
+        "image": "https://i.nefisyemektarifleri.com/2023/08/18/imam-bayildi-yapimi-8.jpg",
+        "description": "Imam bayıldı is a delicious Turkish dish made with eggplants stuffed with onions, tomatoes, and garlic."
+    },
+    {
+        "name": "Manti",
+        "category": "Main Dish",
+        "image": "https://i.lezzet.com.tr/images-xxlarge-secondary/manti-nasil-pisirilir-9853d099-517c-4e89-be1c-960b703dcb8e.jpg",
+        "description": "Manti is Turkish dumplings filled with spiced meat, usually served with yogurt and garlic sauce."
+    },
+    {
+        "name": "Baklava",
+        "category": "Dessert",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZXiloEaQVE_zTaetvmBb_rz4l47No94XBw&s",
+        "description": "Baklava is a traditional Turkish dessert made with thin layers of dough and filled with pistachios or walnuts."
+    },
+    {
+        "name": "Stuffed Vegetables (Dolma)",
+        "category": "Main Dish",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NNtq0AsmFb-jcmOdhAw-jj0TILP1Sx9SIQ&s",
+        "description": "Dolma is a dish made by stuffing vegetables such as peppers, eggplants, or leaves."
+    },
+    {
+        "name": "Pilaf",
+        "category": "Side Dish",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2OGOGAYH1BLtmLWpuOZGTcaF5XP5lNgheYg&s",
+        "description": "Pilaf is a staple in Turkish cuisine, usually served with meat or vegetables."
+    },
+    {
+        "name": "Kunefe",
+        "category": "Dessert",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYqe68Pksp9UoL9qpudSLy9aaPpX-zGNvpw&s",
+        "description": "Künefe is a Turkish dessert made with shredded pastry dough and cheese, soaked in syrup."
+    },
+    {
+        "name": "Lahmacun",
+        "category": "Main Dish",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM4v5GDdakS7lZLX8E9ml35r2ZR1AK0i8_kw&s",
+        "description": "Lahmacun is a Turkish pizza made with thin dough topped with minced meat, onions, tomatoes, and spices."
+    },
+    {
+        "name": "Meatballs (Köfte)",
+        "category": "Main Dish",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxTVfSLnRDDJ3c69lO8Dq9uOc4G8S8y8pIw&s",
+        "description": "Köfte are Turkish meatballs flavored with various spices and herbs."
+    },
+    {
+        "name": "Pastry (Borek)",
+        "category": "Side Dish",
+        "image": "https://i.ytimg.com/vi/Ueb0UZTAY3o/maxresdefault.jpg",
+        "description": "Börek is a traditional Turkish pastry made with thin layers of dough filled with cheese, minced meat, or spinach."
+    },
+    {
+        "name": "Stuffed Grape Leaves (Sarma)",
+        "category": "Main Dish",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuZLa4EnGp9JXYcVpSKfJlrjxyS53rD5I2Hw&s",
+        "description": "Sarma is a dish made with grape or cabbage leaves stuffed with a mixture of rice, meat, and spices."
+    },
+    {
+        "name": "Turkish Pancake (Gözleme)",
+        "category": "Side Dish",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vw89WvVcuL3p-11BLJpQ5uZIv_ula0Rb3Q&s",
+        "description": "Gözleme is a traditional Turkish flatbread filled with various ingredients such as cheese, potatoes, or spinach."
+    },
+    {
+        "name": "Salad",
+        "category": "Salad",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZK7QoWfyf4U_C3FY_RCNnAQgPssGs7Tmyw&s",
+        "description": "Salad is a light dish made with fresh vegetables, dressed with olive oil, lemon juice, or vinegar."
+    },
+    {
+        "name": "Bulgur Salad (Kısır)",
+        "category": "Salad",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQgpfDV_yGWXvsll7J4-x7ESj87IxjcirIsQ&s",
+        "description": "Kısır is a Turkish salad made with fine bulgur, tomatoes, cucumbers, herbs, and pomegranate molasses."
+    },
+    {
+        "name": "Pide",
+        "category": "Main Dish",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3JDHcvufT4eT_0BBAFsAvkpoBchPBpeZs3A&s",
+        "description": "Pide is a Turkish flatbread topped with various ingredients and baked in a stone oven."
+    },
+    {
+        "name": "Chicken (Tavuk)",
+        "category": "Main Dish",
+        "image": "https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/mgt/tavuklu-patates.webp",
+        "description": "Tavuk is a protein-rich dish made with chicken, flavored with various spices and vegetables."
+    },
+    {
+        "name": "Halva",
+        "category": "Dessert",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7vlLRQ9Pg6qnxIso6THmSuFMm0YkYV7sRcg&s",
+        "description": "Halva is a traditional Turkish dessert made with semolina or flour, sweetened with sugar, and flavored with butter."
+    }
+]
